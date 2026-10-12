@@ -1,6 +1,6 @@
 # 🛍️ NexusStore - Full-Stack E-Commerce Web Application
 
-A production-ready full-stack e-commerce web application with a React frontend, Node.js & Express RESTful API, MongoDB Atlas integration (with Mongoose), and deployment configuration for **Render** (Backend) and **Vercel** (Frontend).
+A production-ready full-stack e-commerce web application with a modern React frontend, a Spring Boot 3.3 (Java 21) RESTful API backend, MongoDB Atlas integration, and ready-to-deploy configuration for **Render** (via Docker / Maven) and **Vercel** (Frontend).
 
 ---
 
@@ -9,9 +9,10 @@ A production-ready full-stack e-commerce web application with a React frontend, 
 | Layer | Technology |
 |---|---|
 | **Frontend** | React 19, Vite, Tailwind CSS v4, Lucide Icons, React Router v7 |
-| **Backend** | Node.js, Express.js, Mongoose, JWT, bcryptjs, CORS |
-| **Database** | MongoDB Atlas Cluster (`mongodb+srv://...`) with seamless local JSON fallback |
-| **Cloud Hosting** | **Render** (Backend API Web Service) & **Vercel** (Frontend Client) |
+| **Backend** | Java 21, Spring Boot 3.3, Spring Data MongoDB, Spring Security, JJWT (Java JWT) |
+| **Alternative Backend** | Node.js & Express RESTful API (located in `server/`) |
+| **Database** | MongoDB Atlas Cluster (`mongodb+srv://...`) |
+| **Cloud Hosting** | **Render** (Spring Boot Docker Web Service) & **Vercel** (React Client) |
 
 ---
 
