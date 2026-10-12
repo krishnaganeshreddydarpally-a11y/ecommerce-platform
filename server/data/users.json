@@ -1,0 +1,22 @@
+[
+  {
+    "id": "user_admin",
+    "name": "Admin User",
+    "email": "admin@eshop.com",
+    "password": "$2a$10$XezELco80CqcpwteRQfrMOkfsR9FgI56VnVx6ICGsxUhpWR2gubV2",
+    "role": "admin",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "createdAt": "2026-10-05T05:24:42.654Z",
+    "updatedAt": "2026-10-05T05:24:42.655Z"
+  },
+  {
+    "id": "user_customer",
+    "name": "Alex Morgan",
+    "email": "user@eshop.com",
+    "password": "$2a$10$JhgXPR63wYsOhD2qycBSwObJbCm2ZNk6zxzCcWestQm/.9dNgG3.a",
+    "role": "customer",
+    "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&auto=format&fit=crop&q=80",
+    "createdAt": "2026-10-05T05:24:42.657Z",
+    "updatedAt": "2026-10-05T05:24:42.657Z"
+  }
+]

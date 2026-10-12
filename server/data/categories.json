@@ -1,0 +1,47 @@
+[
+  {
+    "id": "cat_electronics",
+    "name": "Electronics & Computers",
+    "slug": "electronics",
+    "description": "Laptops, displays, and cutting edge tech gear",
+    "icon": "Laptop",
+    "createdAt": "2026-10-05T05:24:42.658Z",
+    "updatedAt": "2026-10-05T05:24:42.658Z"
+  },
+  {
+    "id": "cat_audio",
+    "name": "Audio & Headphones",
+    "slug": "audio",
+    "description": "Studio headphones, true wireless earbuds, and speakers",
+    "icon": "Headphones",
+    "createdAt": "2026-10-05T05:24:42.659Z",
+    "updatedAt": "2026-10-05T05:24:42.659Z"
+  },
+  {
+    "id": "cat_wearables",
+    "name": "Wearables & Smart Tech",
+    "slug": "wearables",
+    "description": "Smartwatches, fitness bands, and wearable devices",
+    "icon": "Watch",
+    "createdAt": "2026-10-05T05:24:42.660Z",
+    "updatedAt": "2026-10-05T05:24:42.660Z"
+  },
+  {
+    "id": "cat_home",
+    "name": "Home & Workspace",
+    "slug": "home-office",
+    "description": "Ergonomic furniture, desk lamps, and office essentials",
+    "icon": "Home",
+    "createdAt": "2026-10-05T05:24:42.660Z",
+    "updatedAt": "2026-10-05T05:24:42.660Z"
+  },
+  {
+    "id": "cat_fashion",
+    "name": "Fashion & Accessories",
+    "slug": "fashion",
+    "description": "Minimalist backpacks, jackets, and everyday apparel",
+    "icon": "ShoppingBag",
+    "createdAt": "2026-10-05T05:24:42.661Z",
+    "updatedAt": "2026-10-05T05:24:42.661Z"
+  }
+]

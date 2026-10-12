@@ -1,0 +1,159 @@
+[
+  {
+    "id": "ord_1001",
+    "userId": "user_customer",
+    "customerName": "Alex Morgan",
+    "customerEmail": "user@eshop.com",
+    "items": [
+      {
+        "id": "prod_1",
+        "name": "Aura Pro Noise-Cancelling Headphones",
+        "price": 279.99,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Alex Morgan",
+      "street": "742 Evergreen Terrace",
+      "city": "Springfield",
+      "state": "IL",
+      "postalCode": "62704",
+      "country": "United States"
+    },
+    "paymentMethod": "Credit Card (Stripe Simulated)",
+    "paymentStatus": "Paid",
+    "subtotal": 279.99,
+    "tax": 22.4,
+    "shippingFee": 0,
+    "total": 302.39,
+    "status": "Delivered",
+    "trackingNumber": "TRK-98234-US",
+    "timeline": [
+      {
+        "status": "Order Placed",
+        "timestamp": "2026-09-28T14:30:00Z",
+        "note": "Order placed by customer"
+      },
+      {
+        "status": "Payment Confirmed",
+        "timestamp": "2026-09-28T14:31:00Z",
+        "note": "Payment processed successfully"
+      },
+      {
+        "status": "Shipped",
+        "timestamp": "2026-09-29T10:00:00Z",
+        "note": "Shipped via Express Priority"
+      },
+      {
+        "status": "Delivered",
+        "timestamp": "2026-10-01T15:20:00Z",
+        "note": "Delivered at front porch"
+      }
+    ],
+    "createdAt": "2026-09-28T14:30:00Z",
+    "updatedAt": "2026-10-05T05:24:42.674Z"
+  },
+  {
+    "id": "ord_1002",
+    "userId": "user_customer",
+    "customerName": "Alex Morgan",
+    "customerEmail": "user@eshop.com",
+    "items": [
+      {
+        "id": "prod_4",
+        "name": "Nomad Minimalist Waterproof Commuter Backpack",
+        "price": 119,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "id": "prod_5",
+        "name": "Lumina Warm LED Architectural Desk Lamp",
+        "price": 89.95,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Alex Morgan",
+      "street": "742 Evergreen Terrace",
+      "city": "Springfield",
+      "state": "IL",
+      "postalCode": "62704",
+      "country": "United States"
+    },
+    "paymentMethod": "PayPal",
+    "paymentStatus": "Paid",
+    "subtotal": 208.95,
+    "tax": 16.72,
+    "shippingFee": 15,
+    "total": 240.67,
+    "status": "Shipped",
+    "trackingNumber": "TRK-98711-US",
+    "timeline": [
+      {
+        "status": "Order Placed",
+        "timestamp": "2026-10-04T09:12:00Z",
+        "note": "Order placed by customer"
+      },
+      {
+        "status": "Payment Confirmed",
+        "timestamp": "2026-10-04T09:13:00Z",
+        "note": "Payment processed successfully"
+      },
+      {
+        "status": "Shipped",
+        "timestamp": "2026-10-04T16:45:00Z",
+        "note": "Handed off to courier facility"
+      }
+    ],
+    "createdAt": "2026-10-04T09:12:00Z",
+    "updatedAt": "2026-10-05T05:24:42.675Z"
+  },
+  {
+    "id": "item_1791783593186_9syoq",
+    "userId": "user_customer",
+    "customerName": "Alex Morgan",
+    "customerEmail": "user@eshop.com",
+    "items": [
+      {
+        "id": "prod_1",
+        "name": "Aura Pro Noise-Cancelling Headphones",
+        "price": 279.99,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Alex Morgan",
+      "street": "123 Market St",
+      "city": "San Francisco",
+      "state": "CA",
+      "postalCode": "94105",
+      "country": "US"
+    },
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "Paid",
+    "subtotal": 279.99,
+    "tax": 22.4,
+    "shippingFee": 0,
+    "total": 302.39,
+    "status": "Processing",
+    "trackingNumber": "TRK-37065-US",
+    "timeline": [
+      {
+        "status": "Order Placed",
+        "timestamp": "2026-10-12T05:39:53.185Z",
+        "note": "Your order was successfully placed and verified."
+      },
+      {
+        "status": "Payment Confirmed",
+        "timestamp": "2026-10-12T05:39:53.185Z",
+        "note": "Payment via Credit Card captured."
+      }
+    ],
+    "createdAt": "2026-10-12T05:39:53.186Z",
+    "updatedAt": "2026-10-12T05:39:53.186Z"
+  }
+]

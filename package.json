@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce-platform",
+  "version": "1.0.0",
+  "description": "Full-Stack E-Commerce Web Application (React, Express, Node.js)",
+  "scripts": {
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "start": "node server/src/server.js",
+    "build": "npm --prefix client run build"
+  },
+  "keywords": [
+    "ecommerce",
+    "react",
+    "express",
+    "mern",
+    "fullstack",
+    "store",
+    "shopping-cart"
+  ],
+  "author": "",
+  "license": "MIT"
+}

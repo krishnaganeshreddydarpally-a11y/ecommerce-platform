@@ -1,0 +1,206 @@
+[
+  {
+    "id": "prod_1",
+    "name": "Aura Pro Noise-Cancelling Headphones",
+    "slug": "aura-pro-noise-cancelling-headphones",
+    "description": "Engineered with custom high-fidelity acoustic architecture, spatial audio tracking, and up to 40 hours of battery life with adaptive hybrid ANC.",
+    "price": 279.99,
+    "originalPrice": 329.99,
+    "category": "cat_audio",
+    "categoryName": "Audio & Headphones",
+    "rating": 4.8,
+    "numReviews": 128,
+    "stock": 44,
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800&auto=format&fit=crop&q=80"
+    ],
+    "specs": {
+      "Connectivity": "Bluetooth 5.3 & 3.5mm Aux",
+      "BatteryLife": "40 Hours ANC On",
+      "Weight": "254 grams",
+      "Warranty": "2 Years Manufacturer"
+    },
+    "createdAt": "2026-10-05T05:24:42.663Z",
+    "updatedAt": "2026-10-12T05:39:53.183Z"
+  },
+  {
+    "id": "prod_2",
+    "name": "Apex Studio 4K Ultra-Wide Monitor",
+    "slug": "apex-studio-4k-ultrawide-monitor",
+    "description": "A stunning 34-inch curved IPS monitor with 144Hz refresh rate, 98% DCI-P3 color gamut, and 90W USB-C single cable power delivery for professionals.",
+    "price": 649,
+    "originalPrice": 799,
+    "category": "cat_electronics",
+    "categoryName": "Electronics & Computers",
+    "rating": 4.9,
+    "numReviews": 86,
+    "stock": 18,
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1585792180666-f7347c490ee2?w=800&auto=format&fit=crop&q=80"
+    ],
+    "specs": {
+      "ScreenSize": "34-inch 21:9 Curved IPS",
+      "Resolution": "3440 x 1440 WQHD",
+      "RefreshRate": "144Hz 1ms response",
+      "Ports": "HDMI 2.1, DP 1.4, USB-C 90W"
+    },
+    "createdAt": "2026-10-05T05:24:42.665Z",
+    "updatedAt": "2026-10-05T05:24:42.665Z"
+  },
+  {
+    "id": "prod_3",
+    "name": "Vanguard Chrono Smartwatch Ultra",
+    "slug": "vanguard-chrono-smartwatch-ultra",
+    "description": "Aerospace-grade titanium chassis with sapphire crystal face, dual-frequency GPS, ECG monitor, and water resistance down to 100 meters.",
+    "price": 349.5,
+    "originalPrice": 399,
+    "category": "cat_wearables",
+    "categoryName": "Wearables & Smart Tech",
+    "rating": 4.7,
+    "numReviews": 215,
+    "stock": 32,
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=800&auto=format&fit=crop&q=80"
+    ],
+    "specs": {
+      "Material": "Titanium & Sapphire Glass",
+      "Battery": "Up to 5 Days Normal Use",
+      "Sensors": "ECG, SpO2, Heart Rate, Compass",
+      "WaterRating": "10 ATM (100m)"
+    },
+    "createdAt": "2026-10-05T05:24:42.666Z",
+    "updatedAt": "2026-10-05T05:24:42.666Z"
+  },
+  {
+    "id": "prod_4",
+    "name": "Nomad Minimalist Waterproof Commuter Backpack",
+    "slug": "nomad-minimalist-waterproof-commuter-backpack",
+    "description": "Crafted from recycled weatherproof Cordura ballistic nylon. Features dedicated padded 16-inch laptop compartment, hidden RFID passport pocket, and magnetic quick-release clasps.",
+    "price": 119,
+    "originalPrice": 149,
+    "category": "cat_fashion",
+    "categoryName": "Fashion & Accessories",
+    "rating": 4.6,
+    "numReviews": 94,
+    "stock": 50,
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=800&auto=format&fit=crop&q=80"
+    ],
+    "specs": {
+      "Capacity": "22 Liters",
+      "LaptopFit": "Fits up to 16-inch MacBook Pro",
+      "Material": "Recycled 840D Cordura Nylon",
+      "Weight": "980 grams"
+    },
+    "createdAt": "2026-10-05T05:24:42.668Z",
+    "updatedAt": "2026-10-05T05:24:42.668Z"
+  },
+  {
+    "id": "prod_5",
+    "name": "Lumina Warm LED Architectural Desk Lamp",
+    "slug": "lumina-warm-led-architectural-desk-lamp",
+    "description": "Aircraft aluminum articulating lamp with 5 color temperatures, smooth step-less touch dimming, built-in 15W Qi wireless phone charging pad, and USB-C port.",
+    "price": 89.95,
+    "originalPrice": 110,
+    "category": "cat_home",
+    "categoryName": "Home & Workspace",
+    "rating": 4.9,
+    "numReviews": 62,
+    "stock": 25,
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "specs": {
+      "Brightness": "1200 Lumens Max",
+      "CCT": "2700K - 6500K 5 Levels",
+      "WirelessCharger": "15W Fast Charge Qi",
+      "Lifespan": "50,000 Hours LED lifespan"
+    },
+    "createdAt": "2026-10-05T05:24:42.669Z",
+    "updatedAt": "2026-10-05T05:24:42.669Z"
+  },
+  {
+    "id": "prod_6",
+    "name": "Keychron Mechanical Wireless Keyboard Q3",
+    "slug": "keychron-mechanical-wireless-keyboard-q3",
+    "description": "Custom gasket-mount mechanical keyboard featuring hot-swappable tactile switches, double-shot PBT keycaps, per-key RGB backlighting, and CNC anodized aluminum frame.",
+    "price": 179,
+    "originalPrice": 199,
+    "category": "cat_electronics",
+    "categoryName": "Electronics & Computers",
+    "rating": 4.8,
+    "numReviews": 140,
+    "stock": 14,
+    "featured": true,
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80"
+    ],
+    "specs": {
+      "Layout": "Tenkeyless (80%)",
+      "Switches": "Gateron G Pro Brown Tactile",
+      "Battery": "4000mAh up to 300 hrs",
+      "Connectivity": "Bluetooth 5.1 & USB-C wired"
+    },
+    "createdAt": "2026-10-05T05:24:42.670Z",
+    "updatedAt": "2026-10-05T05:24:42.670Z"
+  },
+  {
+    "id": "prod_7",
+    "name": "Pulse True Wireless Earbuds with ANC",
+    "slug": "pulse-true-wireless-earbuds-with-anc",
+    "description": "Ultra-compact earbuds delivering deep punchy bass, crystal-clear call quality with 6 environmental noise-cancelling microphones, and fast wireless charging case.",
+    "price": 129.99,
+    "originalPrice": 159.99,
+    "category": "cat_audio",
+    "categoryName": "Audio & Headphones",
+    "rating": 4.5,
+    "numReviews": 180,
+    "stock": 65,
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&auto=format&fit=crop&q=80"
+    ],
+    "specs": {
+      "Waterproof": "IPX5 Sweat & Water Resistant",
+      "Playtime": "8 Hours (32 Hours total with Case)",
+      "Driver": "11mm Dynamic Bio-Diaphragm",
+      "Latency": "Low-latency 45ms gaming mode"
+    },
+    "createdAt": "2026-10-05T05:24:42.671Z",
+    "updatedAt": "2026-10-05T05:24:42.671Z"
+  },
+  {
+    "id": "prod_8",
+    "name": "ErgoForm Breathable Mesh Task Chair",
+    "slug": "ergoform-breathable-mesh-task-chair",
+    "description": "Engineered for full ergonomic support during long workdays. 3D adjustable armrests, adaptive lumbar support, synchronized recline mechanism, and Class-4 gas lift.",
+    "price": 389,
+    "originalPrice": 450,
+    "category": "cat_home",
+    "categoryName": "Home & Workspace",
+    "rating": 4.7,
+    "numReviews": 73,
+    "stock": 12,
+    "featured": false,
+    "images": [
+      "https://images.unsplash.com/photo-1592078615290-033ee584e267?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1589384267710-7a170981ca78?w=800&auto=format&fit=crop&q=80"
+    ],
+    "specs": {
+      "WeightCapacity": "330 lbs / 150 kg",
+      "Adjustment": "Lumbar, Armrests, Headrest, Tilt",
+      "Warranty": "5 Years Manufacturer Guarantee"
+    },
+    "createdAt": "2026-10-05T05:24:42.673Z",
+    "updatedAt": "2026-10-05T05:24:42.673Z"
+  }
+]
